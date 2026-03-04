@@ -87,7 +87,7 @@ if __name__ == "__main__":
 # activate environment:
 #       source ~/spot/spot310/bin/activate
 # set spot login credentials:
-#       export BOSDYN_CLIENT_USERNAME=user
+#       export BOSDYN_CLIENT_USERNAME=
 #       export BOSDYN_CLIENT_PASSWORD=
 # run the sq walk script
 #       python3 spot-sdk/python/examples/square_walk/square_walk.py 192.168.80.3 --side 1.0
